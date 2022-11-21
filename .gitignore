@@ -1,2 +1,4 @@
 node_modules
 node_modules
+.ssh/id_test
+.ssh/id_test.pub
